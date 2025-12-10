@@ -120,7 +120,7 @@ RETURN DIVIDE(Curr - Prev, Prev)
 ```
 ---
 
-##⚙️ **How to Use This Project**
+## ⚙️ **How to Use This Project**
 > Prerequisites
 
 > Install Power BI Desktop
@@ -140,7 +140,7 @@ Open the Power BI file:
 
 ---
 
-##🧩 **Data Model Overview**
+## 🧩 **Data Model Overview**
 
 > Dim_Date – full calendar table
 
@@ -176,7 +176,7 @@ Relationships:
 
 ---
 
-##🎯 **Who Is This For?**
+## 🎯 **Who Is This For?**
 
 > Job seekers analysing career opportunities
 
@@ -190,7 +190,7 @@ Relationships:
 
 ---
 
-##🏁 **Conclusion**
+## 🏁 **Conclusion**
 
 This dashboard blends official ONS data with real job market signals to help understand the UK employment landscape.
 It offers both high-level trends and deep insights into Analyst-specific opportunities - with more job roles to be added soon.
