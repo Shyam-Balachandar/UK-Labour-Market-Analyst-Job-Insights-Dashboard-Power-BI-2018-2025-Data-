@@ -1,0 +1,2 @@
+# UK-Labour-Market-Analyst-Job-Insights-Dashboard-Power-BI-2018-2025-Data-
+A project analysing UK labour market trends, industry vacancy patterns, unemployment dynamics, and analyst job opportunities using ONS datasets and live job ads. Includes forecasting, YoY growth, industry-level insights, and interactive dashboards. Professionally built, business-friendly… with occasional absurd commentary for scientific spice.
