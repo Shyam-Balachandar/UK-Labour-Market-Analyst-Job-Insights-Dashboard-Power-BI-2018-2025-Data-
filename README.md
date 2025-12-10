@@ -1,4 +1,4 @@
-# 🇬🇧 UK Labour Market & Analyst Job Insights  
+# UK Labour Market & Analyst Job Insights  
 ### **A Power BI Analytics Project using ONS Data + Live Job Ads**
 
 This project analyses **UK labour market dynamics**, **industry vacancies**, **unemployment trends**, and **real analyst job postings** to understand hiring patterns, salary expectations, and role demand.  
@@ -117,24 +117,28 @@ VAR Prev =
         DATEADD(Dim_Date[Date], -1, YEAR)
     )
 RETURN DIVIDE(Curr - Prev, Prev)
+```
+---
 
 ##⚙️ **How to Use This Project**
-Prerequisites
+> Prerequisites
 
-Install Power BI Desktop
+> Install Power BI Desktop
 
-Download this repository
+> Download this repository
 
 Steps
 
 Open the Power BI file:
-UK_Labour_Market_Analyst_Insights.pbix
+> UK_Labour_Market_Analyst_Insights.pbix
 
-Ensure all datasets (CSV/XLSX) are in the correct folder.
+> Ensure all datasets (CSV/XLSX) are in the correct folder.
 
-Refresh the report to load updated data.
+> Refresh the report to load updated data.
 
-Interact with slicers and visuals to explore insights.
+> Interact with slicers and visuals to explore insights.
+
+---
 
 ##🧩 **Data Model Overview**
 
@@ -156,22 +160,7 @@ Industry ↔ Vacancies / Job Ads / Workforce Jobs
 
 Region ↔ Job Ads / Workforce Jobs
 
-## 🧠 **Key Insights**
-📌 Labour Market
-
-Human Health & Social Work shows the highest vacancy volume.
-
-Vacancy growth has declined YoY across most industries.
-
-Unemployment remains high relative to vacancy openings.
-
-📌 Analyst Job Market
-
-South East, East Midlands, and London lead in Analyst job postings.
-
-Data Analyst & Insight Analyst roles show the greatest demand.
-
-Salary increases with role seniority, but experience levels vary widely.
+---
 
 ## 🚧 **Current Limitations**
 
@@ -185,6 +174,8 @@ Vacancy data is aggregated monthly or quarterly, limiting granularity.
 
 Demand/supply mismatch interpretations require caution.
 
+---
+
 ##🎯 **Who Is This For?**
 
 Job seekers analysing career opportunities
@@ -196,6 +187,8 @@ Recruiters and HR professionals
 Students building their analytics portfolio
 
 Anyone curious about UK labour trends
+
+---
 
 ##🏁 **Conclusion**
 
