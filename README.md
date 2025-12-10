@@ -142,51 +142,51 @@ Open the Power BI file:
 
 ##🧩 **Data Model Overview**
 
-Dim_Date – full calendar table
+> Dim_Date – full calendar table
 
-Dim_Industry – harmonized SIC07 industry names
+> Dim_Industry – harmonized SIC07 industry names
 
-Fact_Vacancies – monthly & quarterly vacancy data
+> Fact_Vacancies – monthly & quarterly vacancy data
 
-Fact_Unemployment – labour supply
+> Fact_Unemployment – labour supply
 
-Fact_JobAds – analyst job ads dataset
+> Fact_JobAds – analyst job ads dataset
 
 Relationships:
 
-Date ↔ Vacancies
+> Date ↔ Vacancies
 
-Industry ↔ Vacancies / Job Ads / Workforce Jobs
+> Industry ↔ Vacancies / Job Ads / Workforce Jobs
 
-Region ↔ Job Ads / Workforce Jobs
+> Region ↔ Job Ads / Workforce Jobs
 
 ---
 
 ## 🚧 **Current Limitations**
 
-Analyst roles only — broader job families (engineering, finance, tech, etc.) not yet included.
+> Analyst roles only — broader job families (engineering, finance, tech, etc.) not yet included.
 
-Job ads dataset covers only the most recent period.
+> Job ads dataset covers only the most recent period.
 
-Salary & experience depend on postings that explicitly list them.
+> Salary & experience depend on postings that explicitly list them.
 
-Vacancy data is aggregated monthly or quarterly, limiting granularity.
+> Vacancy data is aggregated monthly or quarterly, limiting granularity.
 
-Demand/supply mismatch interpretations require caution.
+> Demand/supply mismatch interpretations require caution.
 
 ---
 
 ##🎯 **Who Is This For?**
 
-Job seekers analysing career opportunities
+> Job seekers analysing career opportunities
 
-Business analysts and workforce planners
+> Business analysts and workforce planners
 
-Recruiters and HR professionals
+> Recruiters and HR professionals
 
-Students building their analytics portfolio
+> Students building their analytics portfolio
 
-Anyone curious about UK labour trends
+> Anyone curious about UK labour trends
 
 ---
 
