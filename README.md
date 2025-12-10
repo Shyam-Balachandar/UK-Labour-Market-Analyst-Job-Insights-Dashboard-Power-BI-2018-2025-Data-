@@ -1,4 +1,4 @@
-# UK Labour Market & Analyst Job Insights  
+# UK Labour Market & Analyst Job Insights Dashboard (Power BI | 2018–2025 Data)
 ### **A Power BI Analytics Project using ONS Data + Live Job Ads**
 
 This project analyses **UK labour market dynamics**, **industry vacancies**, **unemployment trends**, and **real analyst job postings** to understand hiring patterns, salary expectations, and role demand.  
